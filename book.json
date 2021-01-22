@@ -1,0 +1,58 @@
+{
+    "plugins": [
+        "back-to-top-button",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "insert-logo",
+        "custom-favicon",
+        "pageview-count",
+        "tbfed-pagefooter",
+        "hide-element",
+        "popup",
+        "-sharing",
+        "sharing-plus"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "insert-logo": {
+            "url": "https://www.smallsticker.com/static/bf6df360995b416f4af4e88a52f5fce7/7cce6/bcb9d8146cb3f6850336c70f05dd11f9.jpg",
+            "style": "background: none; max-height: 60px; min-height: 60px"
+        },
+        "favicon": "./icon/favicon.ico",
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy dsx2016.com 2021",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": true,
+            "google": true,
+            "pocket": true,
+            "qq": true,
+            "qzone": true,
+            "twitter": true,
+            "weibo": true,
+            "all": [
+                "douban",
+                "facebook",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "weibo",
+                "messenger",
+                "qq",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    }
+}
