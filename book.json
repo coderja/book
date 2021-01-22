@@ -15,9 +15,14 @@
         "popup",
         "-sharing",
         "sharing-plus",
-        "donate"
+        "donate",
+        "github",
+        "klipse" 
     ],
     "pluginsConfig": {
+        "github": {
+     	   "url": "https://github.com/coderja"
+  	    },
         "hide-element": {
             "elements": [".gitbook-link"]
         },
