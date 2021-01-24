@@ -20,6 +20,7 @@
         "klipse" 
     ],
     "pluginsConfig": {
+        "expandable-chapters":{},
         "github": {
      	   "url": "https://github.com/coderja"
   	    },
@@ -52,8 +53,8 @@
           ]
       },
       "donate": {
-        "wechat": "/assets/img/donate/alipay.jpg",
-        "alipay": "/assets/img/donate/alipay.jpg",
+        "wechat": "https://www.smallsticker.com/static/bf6df360995b416f4af4e88a52f5fce7/7cce6/bcb9d8146cb3f6850336c70f05dd11f9.jpg",
+        "alipay": "./assets/img/donate/alipay.jpg",
         "title": "",
         "button": "赏",
         "alipayText": "支付宝打赏",
