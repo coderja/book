@@ -11,3 +11,5 @@
 * [gitbook入门](doc/gitbook/gitbook入门.md)
 
 * [gitbook进阶](doc/gitbook/gitbook进阶.md)
+
+* [gitbook插件安装](doc/gitbook/gitbook插件安装.md)
